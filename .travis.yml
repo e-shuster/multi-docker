@@ -26,7 +26,7 @@ deploy:
     region: us-east-1
     app: multi-docker
     env: MultiDocker-env
-    bucket_name: multi-docker-elad-shuster
+    bucket_name: elasticbeanstalk-us-east-1-496947949261
     bucket_path: docker-multi
     on:
         branch: master
